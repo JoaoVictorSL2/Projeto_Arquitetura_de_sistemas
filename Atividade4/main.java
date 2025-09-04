@@ -1,6 +1,6 @@
-package AtividadeLSP;
+package Atividade4;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
         Forma retangulo = new Retangulo(10, 5);
         Forma quadrado = new Quadrado(7);
@@ -11,3 +11,4 @@ public class Main {
         System.out.println("Área do círculo: " + circulo.calculaArea());
     }
 }
+
